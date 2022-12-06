@@ -1,2 +1,2 @@
 # python-scripting
-Coursera Week 2: Python scripting and SQL
+Coursera. Scripting with Python and SQL for Data Engineering: Week 2
